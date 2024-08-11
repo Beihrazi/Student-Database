@@ -1,0 +1,8 @@
+The following steps required to run :
+
+1. Install wampServer and after installation the wamp appears green(online) go to phpmyAdmin by clicking on wampserver
+
+2. Inside phpmyAdmin click import option, Copy & paste localhost.sql
+
+Thank you
+
